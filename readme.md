@@ -1,0 +1,1 @@
+Component是类级别的注释，Bean是方法级别的注释，所以Component将类与创建的bean绑定
